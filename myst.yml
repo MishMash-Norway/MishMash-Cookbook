@@ -1,0 +1,40 @@
+version: 1
+
+project:
+  title: MishMash Cookbook & Annual Report
+  subtitle: MishMash Centre for AI and Creativity
+  description: >
+    The official cookbook and annual report series for the MishMash Centre for AI
+    and Creativity — documenting research, milestones, people, and projects from
+    2024 through 2030.
+  keywords:
+    - AI
+    - Creativity
+    - Research
+    - Annual Report
+  github: https://github.com/MishMash-Norway/MishMash-Cookbook
+  license: CC-BY-4.0
+  toc:
+    - file: intro.md
+    - title: Annual Reports
+      children:
+        - title: "2024 — Launch Year"
+          file: 2024/index.md
+        - title: "2025 — Year 2"
+          file: 2025/index.md
+        - title: "2026 — Year 3"
+          file: 2026/index.md
+        - title: "2027 — Year 4"
+          file: 2027/index.md
+        - title: "2028 — Year 5"
+          file: 2028/index.md
+        - title: "2029 — Year 6"
+          file: 2029/index.md
+        - title: "2030 — Year 7"
+          file: 2030/index.md
+
+site:
+  template: book-theme
+  title: MishMash Cookbook & Annual Report
+  options:
+    logo_text: MishMash Centre
