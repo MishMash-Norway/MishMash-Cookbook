@@ -12,7 +12,7 @@ On 8 February 2024 the Research Council of Norway announced that it would establ
 
 The idea that became MishMash started in music. In April 2024 it was presented to the national body for music in higher education, and on 2 May 2024 a national online workshop on music and AI gathered researchers from across the country under the working title MishMash Center for Music and AI. Group work at the workshop widened the scope: the mixture of disciplines that a centre on AI and creativity needed was larger than music.
 
-The mandatory sketch was submitted by the deadline of 7 June 2024. The Research Council received 122 sketches nationally. Through the summer the working name moved between Centre for Music, Creativity and AI, Centre for Creative AI and Centre for Creativity and AI, and the consortium grew towards eighteen partners. Feedback on the sketch arrived in September.
+The mandatory sketch was submitted by the deadline of 7 June 2024. The Research Council received 122 sketches nationally. On 30 August 2024 a small group of the partners met in Kristiansand to plan the centre. The working name was still moving between Centre for Music, Creativity and AI, Centre for Creative AI and Centre for Creativity and AI, and the consortium had grown to eighteen partners. Feedback on the sketch arrived in September.
 
 On 25 September 2024 a National Workshop on AI and Creativity was held at the University of Oslo and on Zoom. Participants pitched research ideas in thematic groups, discussed organisational models and mapped national and international networks. Through the autumn the partners met in an administrative workshop on 28 October and a first meeting of a MishMash council on 15 November 2024, and letters of intent were signed in December 2024 and January 2025.
 
@@ -38,6 +38,7 @@ The administrative coordinator started in January 2026, and the first MeshUp sem
 | 8 February 2024 | The Research Council announces four to six national AI centres |
 | 2 May 2024 | National online workshop on music and AI |
 | 7 June 2024 | Sketch submitted; 122 sketches nationally |
+| 30 August 2024 | Planning workshop in Kristiansand |
 | 25 September 2024 | National Workshop on AI and Creativity, Oslo and online |
 | 15 November 2024 | First meeting of the MishMash council of partners |
 | 15 January 2025 | Application submitted; 50 applications nationally |
