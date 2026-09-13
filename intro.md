@@ -1,51 +1,13 @@
-# Welcome to the MishMash Cookbook & Annual Report
+# MishMash Cookbook and Annual Reports
 
-Welcome to the official **cookbook and annual report series** for the
-**MishMash Centre for AI and Creativity** — a large research centre dedicated
-to advancing the frontiers of artificial intelligence and creative disciplines.
+This book is the running record of the MishMash Centre for AI and Creativity, one of six national AI centres in Norway, hosted by the University of Oslo and funded by the Research Council of Norway from 2025 to 2030.
 
-## About the Centre
+It has three parts.
 
-The MishMash Centre for AI and Creativity was founded to bridge the gap between
-computational intelligence and human creative expression. Our interdisciplinary
-research spans machine learning, generative art, computational linguistics,
-music information retrieval, and beyond.
+- **The centre.** What MishMash is, how it is organised, who the partners are, the recipes by which it works, and a glossary. These chapters are the stable description, updated when the centre changes.
+- **History.** How the centre came about, from the government's AI billion in 2023 to the opening conference in 2026.
+- **Annual reports.** One chapter per year from 2024 to 2030. The centre counts its years from the real start: 2026 is year 1 and 2030 is year 5. 2025, when the centre started on paper on 1 December, is year 0, and 2024, the planning year, is year −1. The early years are written; the current year is written as it happens; the later years are placeholders with the structure they will follow.
 
-## About This Book
+Everything here is public and released under a Creative Commons Attribution licence. The website at [mishmash.no](https://mishmash.no) carries the news, the events, the people and the results; this book carries the longer view.
 
-This Jupyter Book collects the centre's **annual reports** for the years
-**2024–2030**, covering:
-
-- Research highlights and key publications
-- New projects and ongoing initiatives
-- People — staff, students, and collaborators
-- Outreach, events, and community engagement
-- Financial summaries and centre metrics
-
-Use the table of contents on the left to navigate between years.
-
-## How to Build This Book Locally
-
-Ensure you have **Jupyter Book 2** installed:
-
-```bash
-pip install "jupyter-book>=2"
-```
-
-Then build the site content from the repository root:
-
-```bash
-jupyter-book build --site .
-```
-
-Or start a live-preview server:
-
-```bash
-jupyter-book start .
-```
-
-## Licence
-
-All content in this book is released under the
-[Creative Commons Attribution 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
-licence unless stated otherwise.
+The source is on GitHub at [MishMash-Norway/MishMash-Cookbook](https://github.com/MishMash-Norway/MishMash-Cookbook). Corrections and additions are welcome as pull requests.

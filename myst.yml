@@ -1,40 +1,52 @@
 version: 1
 
 project:
-  title: MishMash Cookbook & Annual Report
+  title: MishMash Cookbook and Annual Reports
   subtitle: MishMash Centre for AI and Creativity
   description: >
-    The official cookbook and annual report series for the MishMash Centre for AI
-    and Creativity — documenting research, milestones, people, and projects from
-    2024 through 2030.
+    The running record of the MishMash Centre for AI and Creativity: what the
+    centre is, how it came about, how it works, and one annual report per year
+    from 2024 to 2030.
   keywords:
     - AI
     - Creativity
-    - Research
-    - Annual Report
+    - Research centre
+    - Annual report
+    - Norway
   github: https://github.com/MishMash-Norway/MishMash-Cookbook
   license: CC-BY-4.0
   toc:
     - file: intro.md
-    - title: Annual Reports
+    - title: The centre
       children:
-        - title: "2024 — Launch Year"
-          file: 2024/index.md
-        - title: "2025 — Year 2"
-          file: 2025/index.md
-        - title: "2026 — Year 3"
-          file: 2026/index.md
-        - title: "2027 — Year 4"
-          file: 2027/index.md
-        - title: "2028 — Year 5"
-          file: 2028/index.md
-        - title: "2029 — Year 6"
-          file: 2029/index.md
-        - title: "2030 — Year 7"
-          file: 2030/index.md
+        - file: centre/description.md
+        - file: centre/organisation.md
+        - file: centre/partners.md
+        - file: centre/how-we-work.md
+        - file: centre/glossary.md
+    - file: history.md
+    - title: Annual reports
+      children:
+        - title: "2024 · year −1"
+          file: reports/2024.md
+        - title: "2025 · year 0"
+          file: reports/2025.md
+        - title: "2026 · year 1"
+          file: reports/2026.md
+        - title: "2027 · year 2"
+          file: reports/2027.md
+        - title: "2028 · year 3"
+          file: reports/2028.md
+        - title: "2029 · year 4"
+          file: reports/2029.md
+        - title: "2030 · year 5"
+          file: reports/2030.md
+    - file: colophon.md
 
 site:
   template: book-theme
-  title: MishMash Cookbook & Annual Report
+  title: MishMash Cookbook and Annual Reports
   options:
-    logo_text: MishMash Centre
+    logo: assets/logo.png
+    logo_text: MishMash
+    favicon: assets/favicon.png
