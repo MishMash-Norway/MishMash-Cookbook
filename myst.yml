@@ -49,5 +49,6 @@ site:
   options:
     logo: assets/logo-animated.svg
     logo_dark: assets/logo-animated-dark.svg
+    logo_text: MishMash Centre for AI and Creativity
     favicon: assets/favicon.png
     style: assets/style.css
