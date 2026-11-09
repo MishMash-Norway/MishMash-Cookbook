@@ -23,8 +23,9 @@ project:
         - file: centre/organisation.md
         - file: centre/partners.md
         - file: centre/how-we-work.md
+        - file: centre/history.md
+          title: History
         - file: centre/glossary.md
-    - file: history.md
     - title: Annual reports
       children:
         - title: "2024 · year −1"

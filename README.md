@@ -19,8 +19,7 @@ Node.js 18 or newer is needed; the MyST engine installs itself on first run. Pus
 ```
 myst.yml            project and table of contents
 intro.md            landing page
-centre/             description, organisation, partners, how we work, glossary
-history.md          how the centre came about, 2023 to 2026
+centre/             description, organisation, partners, how we work, history, glossary
 reports/            one chapter per year, 2024.md to 2030.md
 colophon.md         how the book is made, sources, AI disclosure
 ```

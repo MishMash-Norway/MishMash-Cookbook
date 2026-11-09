@@ -1,4 +1,4 @@
-# How MishMash came about
+# History
 
 This chapter is the centre's own record of how it was made, from the government's decision in 2023 to the opening conference in 2026. Dates are taken from public announcements and from the application archive. Where a date is approximate, the text says so.
 
