@@ -21,8 +21,12 @@ project:
       children:
         - file: centre/description.md
         - file: centre/organisation.md
-        - file: centre/partners.md
+        - file: centre/research.md
+        - file: centre/taking-part.md
         - file: centre/how-we-work.md
+        - file: centre/values.md
+        - file: centre/infrastructure.md
+        - file: centre/partners.md
         - file: centre/history.md
           title: History
         - file: centre/glossary.md
