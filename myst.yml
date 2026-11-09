@@ -47,8 +47,7 @@ site:
   template: book-theme
   title: MishMash Cookbook and Annual Reports
   options:
-    logo: assets/logo.png
-    logo_dark: assets/logo-dark.png
-    logo_text: MishMash
+    logo: assets/logo-animated.svg
+    logo_dark: assets/logo-animated-dark.svg
     favicon: assets/favicon.png
     style: assets/style.css
