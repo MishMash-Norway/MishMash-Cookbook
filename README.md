@@ -1,6 +1,6 @@
 # MishMash Cookbook and Annual Reports
 
-The running record of the MishMash Centre for AI and Creativity: what the centre is, how it came about, how it works, and one annual report per year from 2024 to 2030. Built with [Jupyter Book 2](https://next.jupyterbook.org/) on the [MyST](https://mystmd.org/) document engine and published at https://mishmash-norway.github.io/MishMash-Cookbook/.
+The running record of the MishMash Centre for AI and Creativity: what the centre is, how it came about, how it works, and one annual report per year from 2024 to 2030. Each year's chapter is the basis of the centre's annual report to the Research Council. Built with [Jupyter Book 2](https://next.jupyterbook.org/) on the [MyST](https://mystmd.org/) document engine and published at https://mishmash-norway.github.io/MishMash-Cookbook/.
 
 ## Build
 

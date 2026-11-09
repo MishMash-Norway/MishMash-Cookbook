@@ -14,7 +14,15 @@ The centre has five bodies, described on the website under [Organisation](https:
 
 A Stakeholder Board for associated partners and the cultural and creative sectors is planned for spring 2027.
 
-[When the management group has agreed the roles (16 November 2026), add a section on the administrative staff and the officers here, with the organisation chart from the internal repository. Recommendation: names and areas only, no shares of a position.]
+## Who does what
+
+In November 2026 the management group began to set out who is responsible for what, as the centre moved from building to running.
+
+- Administration. The administrative coordinator, Eskil Muan Sæther at the University of Oslo, runs the centre's administration and is secretary to the Board. The research adviser, Thomas de Ridder at the University of Bergen, leads the work on new applications. Around them, smaller shares of positions at the partners cover communication and social media, data management, high-performance computing, the labs, and the organisation of each conference.
+- Officers. Researchers in the centre take responsibility for an area across all the work packages, next to their own research: copyright and rights, innovation, ethics and inclusion, research ethics and privacy, data management, communication, artist residencies, career development and education, and the weekly MeshUps. An officer advises and sets direction; the administrative staff in the same area do the day-to-day work.
+- Work packages. Each of the seven work packages has one leader and two deputies from different institutions.
+
+The details are settled in the management group and the WP leader group during the winter of 2026 to 2027, and the names will be listed on the website when they are agreed.
 
 ## Seven work packages
 
