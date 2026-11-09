@@ -28,7 +28,7 @@ The autumn of 2025 was spent building the centre. The work package leader group 
 
 ## 2026: the launch
 
-The administrative coordinator started in January 2026, and the first MeshUp seminar was held on 29 January. The consortium agreement between the partners was signed in March 2026, the Council was appointed on 16 March and the Board on 27 March. On 8 April 2026 the centre was formally opened at the University of Oslo, with a day of workshops, a hackathon, work package meetings and a panel on AI in creative practice, and an evening ceremony in the University Aula opened by the rector and the Minister of Research and Higher Education. Fellowships were announced at partner institutions through the spring, a Master Fellowship programme opened in August, and the opening conference was held in Kristiansand on 14 and 15 September 2026, hosted by the University of Agder in cooperation with Kilden Performing Arts Centre, Kunstsilo, Kraftverk and Cultiva.
+The administrative coordinator started in January 2026, and the first MeshUp seminar was held on 29 January. The consortium agreement between the partners was signed in March 2026, the Council was appointed on 16 March and the Board on 27 March. On 8 April 2026 the centre was formally opened at the University of Oslo, with a day of workshops, a hackathon, work package meetings and a panel on AI in creative practice, and an evening ceremony in the University Aula opened by the rector and the Minister of Research and Higher Education. Fellowships were announced at partner institutions through the spring, a Master Fellowship programme opened in August, and the opening conference was held in Kristiansand on 14 and 15 September 2026, hosted by the University of Agder in cooperation with Kilden Performing Arts Centre, Kunstsilo, Kraftverk and Cultiva. On 4 November 2026 the Minister of Research and Higher Education and the Minister of Digitalisation and Public Governance met the national AI centres at a roundtable in the government quarter, where MishMash opened on AI and copyright.
 
 ## Timeline
 
@@ -51,4 +51,5 @@ The administrative coordinator started in January 2026, and the first MeshUp sem
 | 16 and 27 March 2026 | Council and Board appointed |
 | 8 April 2026 | Formal opening at the University of Oslo (year 1) |
 | 14 and 15 September 2026 | Opening conference in Kristiansand |
+| 4 November 2026 | Roundtable with the ministers of research and of digitalisation; MishMash opens on AI and copyright |
 | 13 and 14 April 2027 | AR@K27 in Oslo, the second semester conference |
