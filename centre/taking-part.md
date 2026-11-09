@@ -28,7 +28,7 @@ Since August 2026, master's students at partner and affiliated institutions can 
 
 ## Seed funding
 
-Seed funding supports small joint projects that start collaborations between partners. A project can receive up to NOK 50,000, for seminars and workshops, master's scholarships and research assistants, moderate travel, production costs, and fees for contributors from outside the partner institutions. Equipment is covered only when clearly justified. Computing and software licences, including subscriptions to commercial AI services, are not covered: from the third round the centre works instead for shared, national access to computing, and helps members get started on its project at Sigma2, the national supercomputing provider.
+Seed funding supports small joint projects that start collaborations between partners. A project can receive up to NOK 50,000, for seminars and workshops, master's scholarships and research assistants, moderate travel, production costs, and fees for contributors from outside the partner institutions. Licences, tokens and equipment are covered only when clearly justified, and licences preferably as network or site licences that many partners can use. The centre does not buy subscriptions to commercial AI services for its members.
 
 Every project must end in something that can be published, such as a report, an article, code, a dataset, an artwork or teaching material. Applications are assessed by the management and discussed with the work package leaders, with weight on relevance, collaboration across partners and sectors, and outputs that others can use.
 
