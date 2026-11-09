@@ -1,0 +1,27 @@
+/* MishMash identity for the book: the website's purple-to-green header, a colour banner behind each
+   page title, and the four colours as accents. Colours from mishmash-web's brand.css. */
+:root {
+  --mm-green: #b3e297; --mm-purple: #9a90cf; --mm-blue: #a5cbed; --mm-pink: #efadb2;
+  --mm-yellow: #d1e422; --mm-ink: #231f20;
+}
+.myst-top-nav, .myst-top-nav-bar {
+  background-image: linear-gradient(120deg, var(--mm-purple), var(--mm-green)) !important;
+  background-color: var(--mm-purple) !important;
+  color: var(--mm-ink) !important;
+  border-bottom: 0 !important;
+}
+.myst-top-nav a, .myst-top-nav button, .myst-top-nav-bar a { color: var(--mm-ink) !important; }
+.myst-fm-block {
+  background-image: linear-gradient(110deg, var(--mm-purple) 0%, var(--mm-blue) 35%, var(--mm-green) 68%, var(--mm-pink) 100%);
+  border-radius: 14px;
+  padding: 1.6rem 1.6rem 1.2rem !important;
+  margin-bottom: 1.8rem !important;
+  color: var(--mm-ink);
+}
+.myst-fm-block a, .myst-fm-block-title, .myst-fm-block h1 { color: var(--mm-ink) !important; }
+.dark .myst-fm-block { filter: brightness(0.85); }
+article h2 { border-bottom: 4px solid var(--mm-green); padding-bottom: .15em; display: inline-block; }
+article section:nth-of-type(4n+2) h2 { border-bottom-color: var(--mm-purple); }
+article section:nth-of-type(4n+3) h2 { border-bottom-color: var(--mm-blue); }
+article section:nth-of-type(4n+4) h2 { border-bottom-color: var(--mm-pink); }
+figure img { border-radius: 10px; }

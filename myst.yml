@@ -51,3 +51,4 @@ site:
     logo_dark: assets/logo-dark.png
     logo_text: MishMash
     favicon: assets/favicon.png
+    style: assets/style.css

@@ -10,6 +10,8 @@ jupyter-book build --html      # static site in _build/html
 jupyter-book start             # live preview at http://localhost:3000
 ```
 
+The facts and figures for each year are generated from the website's data: run `python3 tools/facts.py` (with `../mishmash-web` next to this repository, or `MISHMASH_WEB` set) before building, and it writes `reports/_facts/YYYY.md`. The colours and the banner are in `assets/style.css`, matching mishmash.no.
+
 Node.js 18 or newer is needed; the MyST engine installs itself on first run. Pushing to `main` rebuilds and deploys the site through `.github/workflows/deploy.yml`.
 
 ## Layout
