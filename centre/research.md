@@ -18,7 +18,7 @@ The second work package looks at artists who make finished works with AI: visual
 
 Two concerns run through the work. One is what happens when creative decisions are handed over to a system. The other is the cultural bias built into many commercial tools, which tend to repeat dominant patterns and push other voices aside. WP2 questions the idea that a system can be neutral, examines the biases in the tools, and develops artworks and artist-centred tools in which the artist, not the machine, stays in control. Where WP1 supports live performance, WP2 works towards a finished creative product.
 
-The work package is led by Budhaditya Chattopadhyay (University of Bergen), with Synne Tollerud Bull (Kristiania University of Applied Sciences) as deputy. The second deputy position is open.
+The work package is led by Budhaditya Chattopadhyay (University of Bergen), with Synne Tollerud Bull (Kristiania University of Applied Sciences) as deputy. The second deputy position is open for now, and will be filled soon.
 
 Examples: [Bingo](https://mishmash.no/projects/bingo-ai-assisted-animation-documentary-film/) tests whether generative tools can be constrained to make animation for a children's documentary film without losing cultural specificity, and [AI-Assisted Film Production through Vita Vigeland](https://mishmash.no/projects/ai-assisted-film-production-vita-vigeland/) uses a screenplay as a case for AI in film pre-production. More at [mishmash.no/wp2](https://mishmash.no/wp2/).
 
@@ -38,7 +38,7 @@ The fourth work package asks how education can use AI to open new ways of learni
 
 Schools have many local initiatives built on commercial tools, while good open teaching resources on creative AI are scarce, and hardly any exist in Norwegian. WP4 develops teaching material, models and methods with diversity, justice, inclusion, privacy and accessibility in the foreground; studies how AI is used in formal, non-formal and informal learning; and gives policy advice. It also carries findings from the other work packages into programmes and curricula.
 
-The work package is led by Eirik Sørbø (University of Agder), with Sidsel Karlsen (Norwegian Academy of Music) and Jens Knigge (Nord University) as deputies.
+The work package is led by Eirik Sørbø (University of Agder), with Sidsel Karlsen (Norwegian Academy of Music) and Jens Knigge (Nord University and the Norwegian Academy of Music) as deputies.
 
 Examples: [Teacher Resources for Critical AI Literacy](https://mishmash.no/projects/teacher-resources-critical-ai-literacy/) develops professional development material with school teachers, and the [Scoping Review of Creative AI in Teaching and Learning](https://mishmash.no/projects/scoping-review-creative-ai-teaching-learning/) maps what is known so far. The work package also runs an open webinar series. More at [mishmash.no/wp4](https://mishmash.no/wp4/).
 
@@ -48,7 +48,7 @@ The fifth work package studies how AI changes the way culture is produced, distr
 
 The work is organised in four connected areas: law, rights and governance; economy, industry and labour; artistic practice and audience experience; and ethics, diversity and sustainability. Questions range from copyright and the imitation of a person's voice or face, through business models and fair distribution of value, to cultural bias and the environmental cost of AI. The aim is new knowledge, practical guidelines and sustainability assessments that can inform policy.
 
-The work package is led by Ragnhild Brøvig (University of Oslo), with Irina Eidsvold (BI Norwegian Business School) and Jon Marius Aareskjold-Drecker (University of Tromsø) as deputies.
+The work package is led by Ragnhild Brøvig (University of Oslo), with Irina Eidsvold (BI Norwegian Business School) and Jon Marius Aareskjold-Drecker (University of Tromsø and the University of Oslo) as deputies.
 
 Examples: [Copyright and Personality Rights in the AI Era](https://mishmash.no/projects/copyright-and-personality-rights-ai-era/) analyses Nordic court decisions on the protection of performers, and [Evaluation of Cultural Bias and Workflow in AI Music Generation](https://mishmash.no/projects/evaluation-cultural-bias-workflow-ai-music-generation/) tests commercial music generators with musicians. More at [mishmash.no/wp5](https://mishmash.no/wp5/).
 
