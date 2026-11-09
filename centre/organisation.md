@@ -6,13 +6,15 @@ MishMash is hosted by the University of Oslo and led by a director, two deputy d
 
 The centre has five bodies, described on the website under [Organisation](https://mishmash.no/about/organisation/).
 
-- The **Management group** handles day-to-day coordination, administration, budget and communication.
-- The **Work Package Leader Group** consists of the leader and two "sidekicks" of each of the seven work packages, and coordinates the research across them.
-- The **Board** governs the centre and takes the strategic decisions. It was appointed on 27 March 2026 and is led by the rector of the University of Agder.
-- The **Council** has one member from each consortium partner. It was appointed on 16 March 2026, after the consortium agreement was signed, and appoints the Board.
-- The **Scientific Advisory Board** consists of twelve international experts in law, creative computing, film, music technology, education, arts and media research.
+- The Management group handles day-to-day coordination, administration, budget and communication.
+- The Work Package Leader Group consists of the leader and two "sidekicks" of each of the seven work packages, and coordinates the research across them.
+- The Board governs the centre and takes the strategic decisions. It was appointed on 27 March 2026 and is led by the rector of the University of Agder.
+- The Council has one member from each consortium partner. It was appointed on 16 March 2026, after the consortium agreement was signed, and appoints the Board.
+- The Scientific Advisory Board consists of twelve international experts in law, creative computing, film, music technology, education, arts and media research.
 
-A Stakeholder Board for associated partners and the cultural and creative sectors is planned.
+A Stakeholder Board for associated partners and the cultural and creative sectors is planned for spring 2027.
+
+[When the management group has agreed the roles (16 November 2026), add a section on the administrative staff and the officers here, with the organisation chart from the internal repository. Recommendation: names and areas only, no shares of a position.]
 
 ## Seven work packages
 
